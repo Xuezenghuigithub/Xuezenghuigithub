@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'am Zander Hsueh.
+
+<img style="max-width: 50% !important;" src="https://github-readme-stats.vercel.app/api?username=Xuezenghuigithub&show_icons=true" />
